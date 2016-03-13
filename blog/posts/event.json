@@ -1,0 +1,7 @@
+{
+    "method": "POST",
+    "body": {
+        "title": "Test post",
+        "content": "Test content"
+    }
+}

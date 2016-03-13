@@ -1,0 +1,13 @@
+{
+  "name": "serverless-hackathon",
+  "version": "0.0.2",
+  "profile": "serverless-v0.4.2",
+  "location": "https://github.com/...",
+  "author": "",
+  "description": "A Slick New Serverless Project",
+  "custom": {},
+  "plugins": [
+    "serverless-cors-plugin",
+    "serverless-optimizer-plugin"
+  ]
+}
